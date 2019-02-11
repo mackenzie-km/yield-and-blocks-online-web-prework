@@ -6,7 +6,7 @@ while i < array.length
 end
 end
 
-
+#paste method below!
 hello_t(["Tim", "Tom", "Jim"]) do |name|
   if name.start_with?("T")
     puts "Hi, #{name}"
